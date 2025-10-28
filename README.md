@@ -93,7 +93,7 @@ Each image is paired with PM2.5 concentration data from the AirNow database.
 
 This project is based on peer-reviewed research presented at multiple science competitions.
 
-**Read the full paper:** [`Image-based-Deep-Learning-on-Air-Quality.pdf`](Image-based-Deep-Learning-on-Air-Quality.pdf)
+**Read the full paper:** [`Image-based-Deep-Learning-on-Air-Quality.pdf`]([Image-based-Deep-Learning-on-Air-Quality.pdf](https://github.com/amyang442/air-quality-resnet9/blob/main/%20Image-based-Deep-Learning-on-Air-Quality.pdf))
 
 ## Applications
 
