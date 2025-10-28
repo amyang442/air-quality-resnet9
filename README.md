@@ -79,7 +79,7 @@ Each image is paired with PM2.5 concentration data from the AirNow database.
 - cd air-quality-resnet9
 
 #### Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### Run the Notebook
 1. Open `air-quality-resnet9.ipynb` in Jupyter Notebook or Google Colab
