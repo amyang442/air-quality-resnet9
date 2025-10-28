@@ -69,18 +69,17 @@ Each image is paired with PM2.5 concentration data from the AirNow database.
 ## Quick Start
 
 ### Prerequisites
-Python 3.8+
-PyTorch 2.0+
-CUDA-capable GPU (recommended)
+- Python 3.8+
+- PyTorch 2.0+
+- CUDA-capable GPU (recommended)
 
 ### Installation
 #### Clone the repository
-git clone https://github.com/amyyang442/air-quality-resnet9.git
-cd air-quality-resnet9
+- git clone https://github.com/amyang442/air-quality-resnet9.git
+- cd air-quality-resnet9
 
 #### Install dependencies
 pip install -r requirements.txt
-
 
 ### Run the Notebook
 1. Open `air-quality-resnet9.ipynb` in Jupyter Notebook or Google Colab
@@ -89,14 +88,6 @@ pip install -r requirements.txt
    - Train the ResNet9 model
    - Evaluate performance metrics
    - Test predictions on individual images
-
-## Repository Structure
-air-quality-resnet9/
-├── README.md # Project overview
-├── air-quality-resnet9.ipynb # Main implementation notebook
-├── Image-based-Deep-Learning-on-Air-Quality.pdf # Full research paper
-├── requirements.txt # Python dependencies
-└── [Link to Kaggle dataset] # Training data
 
 ## Research Paper
 
