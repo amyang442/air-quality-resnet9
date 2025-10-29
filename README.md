@@ -14,7 +14,7 @@
 
 Traditional air quality monitoring systems cost thousands of dollars and are often broken or nonexistent in many locations, including national parks. This project develops a **9-layer Residual Neural Network (ResNet9)** to estimate PM2.5 air pollution levels directly from webcam images, providing a cost-effective alternative.
 
-**Key Achievement:** Achieved **83% classification accuracy**, outperforming state-of-the-art CNN models (69%) and Random Forest classifiers (64%) by over 20%.
+**Key Achievement:** Achieved **83% classification accuracy**, outperforming state-of-the-art CNN models (69%) and Random Forest classifiers (64%).
 
 ### The Problem
 - 124 U.S. national parks have no air quality monitors
